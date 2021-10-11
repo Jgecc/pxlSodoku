@@ -1,9 +1,9 @@
 /*!
  *
- *   pxlchess
+ *   pxlSodoku
  *   Author: Jgecc <jgecc@gmail.com>
- *   Version: v0.0.2
- *   Url: https://github.com/jgecc/pxlchess
+ *   Version: v0.0.1
+ *   Url: https://github.com/jgecc/pxlSodoku
  *   License(s): ?
  *
  */
